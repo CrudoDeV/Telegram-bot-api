@@ -1,0 +1,68 @@
+{
+  "id": "18b318e7-7960-4166-8610-f5ce5d9cd32c",
+  "name": "Conversor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ca777e3f-7c4f-4958-aa15-4c8f52a34c5d",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "b59a58ea-d437-4da2-a503-d4f7a5355e78",
+          "required": false,
+          "dataType": "@monetaryUnity",
+          "name": "monetaryUnity",
+          "value": "$monetaryUnity",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "dcc2923b-5361-4535-8390-d29096fdbca7",
+          "required": false,
+          "dataType": "@monetaryUnity",
+          "name": "monetaryUnity1",
+          "value": "$monetaryUnity1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,116 @@
+[
+  {
+    "id": "79f6cbcd-17f3-4d88-b7ca-ea4c13de5dde",
+    "data": [
+      {
+        "text": "Quero converter ",
+        "userDefined": false
+      },
+      {
+        "text": "15",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "USD",
+        "alias": "monetaryUnity",
+        "meta": "@monetaryUnity",
+        "userDefined": false
+      },
+      {
+        "text": " em ",
+        "userDefined": false
+      },
+      {
+        "text": "BRL",
+        "alias": "monetaryUnity1",
+        "meta": "@monetaryUnity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8481db80-9af1-4ada-bbce-2f3eb918fb43",
+    "data": [
+      {
+        "text": "Quero converter ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "USD",
+        "alias": "monetaryUnity",
+        "meta": "@monetaryUnity",
+        "userDefined": false
+      },
+      {
+        "text": " em ",
+        "userDefined": false
+      },
+      {
+        "text": "BRL",
+        "alias": "monetaryUnity1",
+        "meta": "@monetaryUnity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "128fac44-0e5f-4bcc-8654-8ae073b57547",
+    "data": [
+      {
+        "text": "Quero converter ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "BRL",
+        "alias": "monetaryUnity",
+        "meta": "@monetaryUnity",
+        "userDefined": false
+      },
+      {
+        "text": " em ",
+        "userDefined": false
+      },
+      {
+        "text": "USD",
+        "alias": "monetaryUnity1",
+        "meta": "@monetaryUnity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

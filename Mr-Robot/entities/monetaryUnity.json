@@ -1,0 +1,9 @@
+{
+  "id": "05ecf02b-ace5-4e0c-a1a1-779075b316bc",
+  "name": "monetaryUnity",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

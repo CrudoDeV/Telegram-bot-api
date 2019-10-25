@@ -1,0 +1,54 @@
+{
+  "id": "96560c5c-5004-45e4-9afc-401e65664085",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.greeting",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": [
+            "Lamento, mas não compreendi.",
+            "Desculpe, mas não compreendi.",
+            "Infelizmente, não captei o que deseja.",
+            "Não consegui compreender, desculpe.",
+            "Desculpa, não entendi o que você disse, pode repetir?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": [
+            "Olá como vai você?",
+            "Olá, tudo bem!",
+            "Prazer em conhecê-lo",
+            "Como vai?",
+            "Que bom te ver!",
+            "Olá",
+            "Saudações Arenáuticas, tudo bem com vocês?",
+            "Saudações",
+            "Estou feliz em vê-lo aqui"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "f569c3a8-051e-4ffa-8ff4-ca2453e0db20",
+    "data": [
+      {
+        "text": "Quanto está o ",
+        "userDefined": false
+      },
+      {
+        "text": "CAD",
+        "alias": "currency-name",
+        "meta": "@sys.currency-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hoje",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51087761-511c-4380-af8e-7d7da5db1da2",
+    "data": [
+      {
+        "text": "Quanto está o ",
+        "userDefined": false
+      },
+      {
+        "text": "Euro",
+        "alias": "currency-name",
+        "meta": "@sys.currency-name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29116c23-16b1-4c05-a37a-6b683ed7d72b",
+    "data": [
+      {
+        "text": "Quanto está custando o ",
+        "userDefined": false
+      },
+      {
+        "text": "Euro",
+        "alias": "currency-name",
+        "meta": "@sys.currency-name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7cfd2677-4e73-4407-927c-79964cccf5a3",
+    "data": [
+      {
+        "text": "Quanto está o ",
+        "userDefined": false
+      },
+      {
+        "text": "Dólar",
+        "alias": "monetaryUnity",
+        "meta": "@monetaryUnity",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hoje",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "538c4e66-2a7d-4d51-a735-f7d35741a18f",
+    "data": [
+      {
+        "text": "Qual a cotação ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "currency-name",
+        "meta": "@sys.currency-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Dólar",
+        "alias": "monetaryUnity",
+        "meta": "@monetaryUnity",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

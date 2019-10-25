@@ -1,14 +1,20 @@
 const express = require ('express');
 //const api = require ('../api/config/api');
 const app = express();
-
-const TelegramBot = require ('telegram-bot-api');
+//Início da implementação do BOT
+const https = require('https');
+const unirest = require ('unirest');
+const TelegramBot = require ('node-telegram-bot-api');
 const token = '919914393:AAFJlIEuXO7OUPP-75OyQ0WxpbVI2LlGVO0';
 const bot = new TelegramBot(token, {polling:true});
 
-bot.ontext(/\/echo(.+)/, (msg,match)=>{
-  
+bot.on('new_member_chat', (msg)=>{
+  bot.sendMessage(msg.chat.id, `Olá ${msg.from.first_name}, meu caro, prazer em conhecê-lo!`)
 })
+
+//bot.ontext(/\/echo(.+)/, (msg,match)=>{
+//console.log('teste');
+//})
 
 
 

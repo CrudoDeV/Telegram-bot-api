@@ -1,0 +1,18 @@
+[
+  {
+    "value": "BRL",
+    "synonyms": [
+      "BRL",
+      "brl",
+      "Real",
+      "RS$"
+    ]
+  },
+  {
+    "value": "USD",
+    "synonyms": [
+      "USD",
+      "Dólar"
+    ]
+  }
+]

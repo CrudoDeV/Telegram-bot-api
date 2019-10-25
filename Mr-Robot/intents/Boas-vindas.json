@@ -1,0 +1,96 @@
+{
+  "id": "b2dd3606-49d4-4582-a6e4-0dd760e920c8",
+  "name": "Boas-vindas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "Saudação",
+      "affectedContexts": [
+        {
+          "name": "oi",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "Boa",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "Tarde",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "Saudacao",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "Bem",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "23e9fd81-b8c4-4786-8d07-1d61b3b2748f",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "pt-br",
+          "condition": "",
+          "speech": [
+            "Falaa dev tudo bem com vc?",
+            "E ai blz?",
+            "Como vai",
+            "Tudo bem?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": [
+            "Olá como vai?",
+            "Saudações Aeronáuticas, tudo bem com vocês?",
+            "Como vai?",
+            "Em que posso lhe ajudar?",
+            "Posso te ajudar?",
+            "Do que você precisa hoje?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
